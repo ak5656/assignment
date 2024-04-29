@@ -1,0 +1,1 @@
+There is given an assignment.sql file in this folder, instead of migragion you can import database from this file.
